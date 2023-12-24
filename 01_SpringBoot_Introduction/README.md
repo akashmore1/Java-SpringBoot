@@ -52,3 +52,19 @@
 
 1. When you generate projects using Spring Initializr: start.spring.io, it can generate a Maven project for you.
 2. In this section, we will learn the basics of Maven Viewing dependencies in the Maven pom.xml file Spring Boot Starters for Maven
+3. Maven is a Project Management tool
+4. Most popular use of Maven is for build management and dependencies
+
+## What problems does maven solve?
+
+1. Maven is like npm in node js. It helps in managing dependencies in application
+2. If we decide not to use dependencies manager like maven or gradle, we will have to manually download JAR files of all dependencies like SpringBootApplication, Hibernate, JSP etc. And give path of these JAR files in application where I want to use these dependencies. Maven does this for us and resolves this problem.
+
+## Maven Solution:
+
+1. Tell Maven the projects you are working with (dependencies) Spring, Hibernate etc ....
+2. Maven will go out and download the JAR files for those projects for you
+3. And Maven will make those JAR files available during compile/run
+4. Think of Maven as your friendly helper / personal shopper
+
+![How maven works](./HowMavenWorks.png)
