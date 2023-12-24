@@ -68,3 +68,13 @@
 4. Think of Maven as your friendly helper / personal shopper
 
 ![How maven works](./HowMavenWorks.png)
+
+## Standard maven project structure:
+
+1. Normally when you join a new project
+2. Each development team dreams up their own directory structure Not ideal for new comers and not standardized
+3. Maven solves this problem by providing a standard directory structure
+
+![folder structure](./MavenFolderStructure.png)
+
+![folder structure](./MavenFolderStructure2.png)
