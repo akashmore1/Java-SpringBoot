@@ -47,3 +47,8 @@
 ## Goals of Spring:
 
 ![Goals of SpringBoot](./Goals_Of_Springboot.png)
+
+# What is Maven:
+
+1. When you generate projects using Spring Initializr: start.spring.io, it can generate a Maven project for you.
+2. In this section, we will learn the basics of Maven Viewing dependencies in the Maven pom.xml file Spring Boot Starters for Maven
