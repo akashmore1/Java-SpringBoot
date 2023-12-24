@@ -43,3 +43,7 @@
 
 1. Spring boot apps can also be deployed in traditional way
 2. Deploy war file to external server (Tomcat, JBoss, WebSphere etc)
+
+## Goals of Spring:
+
+![Goals of SpringBoot](./Goals_Of_Springboot.png)
